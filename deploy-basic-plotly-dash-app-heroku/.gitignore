@@ -1,0 +1,4 @@
+dg-dash-stock-basic-app
+*.pyc
+.DS_Store
+.env
